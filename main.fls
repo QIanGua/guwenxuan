@@ -353,6 +353,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT main.aux
@@ -481,6 +483,8 @@ INPUT section1.6.tex
 INPUT section1.6.tex
 INPUT section1.7.tex
 INPUT section1.7.tex
+INPUT main.ptc
+INPUT main.ptc
 INPUT Pictures/chapter_head_2.pdf
 INPUT section2.1.tex
 INPUT section2.1.tex
@@ -488,11 +492,12 @@ INPUT section2.2.tex
 INPUT section2.2.tex
 INPUT main.ptc
 INPUT main.ptc
-INPUT Pictures/chapter_head_1.pdf
-INPUT Pictures/chapter_head_1.pdf
+INPUT Pictures/chapter_head_2.pdf
+INPUT section3.1.tex
+INPUT section3.1.tex
+INPUT Pictures/chapter_head_2.pdf
 INPUT main.ind
 INPUT main.ind
-INPUT Pictures/chapter_head_1.pdf
 OUTPUT main.ptc
 INPUT main.aux
 INPUT main.run.xml

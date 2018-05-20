@@ -20,23 +20,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.7} 祭十二郎文}{11}{section.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2} 文采飞扬}{13}{chapter.2}
+\contentsline {part}{\@mypartnumtocformat {II}{Part Two}}{13}{part.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1} 洛神赋}{13}{section.2.1}
+\contentsline {chapter}{\numberline {2} 文采飞扬}{15}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2} 滕王阁序}{14}{section.2.2}
+\contentsline {section}{\numberline {2.1} 洛神赋}{15}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\@mypartnumtocformat {II}{Part Two}}{17}{part.2}
+\contentsline {section}{\numberline {2.2} 滕王阁序}{16}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}宋詞}{19}{chapter.3}
+\contentsline {part}{\@mypartnumtocformat {III}{Part Three}}{19}{part.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Table}{19}{section.3.1}
+\contentsline {chapter}{\numberline {3} 興觀群怨}{21}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{21}{chapter*.2}
+\contentsline {section}{\numberline {3.1}百字令(投袁大琴南)}{21}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{21}{section*.3}
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{23}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{21}{section*.4}
+\contentsline {section}{Articles}{23}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{23}{section*.5}
+\contentsline {section}{Books}{23}{section*.4}
 \contentsfinish 

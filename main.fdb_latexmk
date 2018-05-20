@@ -1,21 +1,21 @@
 # Fdb version 3
-["biber main"] 1526197113 "main.bcf" "main.bbl" "main" 1526302845
-  "main.bcf" 1526302844 96855 dcad6658d4f214e6727ae9de67186906 ""
+["biber main"] 1526197113 "main.bcf" "main.bbl" "main" 1526826142
+  "main.bcf" 1526826141 96855 dcad6658d4f214e6727ae9de67186906 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["makeindex main.idx"] 1526197113 "main.idx" "main.ind" "main" 1526302845
-  "main.idx" 1526302844 33 494f44c84a081fc407a98aba00c5fc9d ""
+  "main.blg"
+["makeindex main.idx"] 1526824590 "main.idx" "main.ind" "main" 1526826142
+  "main.idx" 1526826139 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "main.ind"
   "main.ilg"
-["xdvipdfmx"] 1526302845 "main.xdv" "main.pdf" "main" 1526302845
-  "main.xdv" 1526302844 222656 11ebc9741b7b42ab1fd984f4fa080bd6 "xelatex"
+["xdvipdfmx"] 1526826141 "main.xdv" "main.pdf" "main" 1526826142
+  "main.xdv" 1526826141 216324 457f87286bb793b3416f0c6810017d90 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1526302842 "main.tex" "main.xdv" "main" 1526302845
+["xelatex"] 1526826138 "main.tex" "main.xdv" "main" 1526826142
   "/Library/Fonts/Songti.ttc" 1501211855 66933232 48b917363d34d9f8e018d72f817cd5db ""
-  "/dev/null" 1526302841 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/dev/null" 1526826137 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1480098689 2288 f478fc8fed18759effb59f3dad7f3084 ""
@@ -216,6 +216,7 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titletoc.sty" 1480098841 18361 6f2961ec45ee4ad03439efe5de257c61 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty" 1480098841 10214 d03d065f799d54f6b7e9b175f8d84279 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty" 1480098841 1617 820bc46185ca5aeeda2ecc6c21866b18 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty" 1480098841 7264 cf839ee7f0c2bfc711b0b88970764569 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/trimspaces/trimspaces.sty" 1480098841 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty" 1480098842 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty" 1480098843 55589 34128738f682d033422ca125f82e5d62 ""
@@ -233,13 +234,13 @@
   "Pictures/background.pdf" 1512493451 15253 d9a03f6e202671124db1172af03625d4 ""
   "Pictures/chapter_head_1.pdf" 1512493451 92598 02e37cf41c589760ac56129669747481 ""
   "Pictures/chapter_head_2.pdf" 1512493451 156812 0342733a9ef42f670bc50ccfbd949b75 ""
-  "main.aux" 1526302844 5652 6c48243ead5e2e84f021e92fc2974221 ""
+  "main.aux" 1526826141 5614 d2b2c1bc81be5cf81e769071cd813666 ""
   "main.bbl" 1526197116 466 87c763802318ca007e475d2fb9c40fb5 "biber main"
-  "main.ind" 1526197113 64 f38e672f84ddc3bcccc5d475e51c522d "makeindex main.idx"
-  "main.ptc" 1526302844 2226 2c562316b4df35d6babb654745a47527 ""
-  "main.run.xml" 1526302844 2307 2cd131e1a6c78306b28ef612d2750db2 ""
-  "main.tex" 1526197108 6977 4f007348e3e71a9f2396a37db7ce413e ""
-  "main.toc" 1526302844 2149 8f2b262d1d71c7fe11417fe8f40f9012 ""
+  "main.ind" 1526824590 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
+  "main.ptc" 1526826141 2304 5acf32d8db86546969d9622acf8de4c1 ""
+  "main.run.xml" 1526826141 2307 2cd131e1a6c78306b28ef612d2750db2 ""
+  "main.tex" 1526826093 6917 abcb58e65952f82173af20b73ae4f480 ""
+  "main.toc" 1526826141 2176 63207789b0e520e109d0d5a1e007fd9a ""
   "section1.1.tex" 1513258808 1235 a42fb64f4c2f354428bfdc9046c7ab3e ""
   "section1.2.tex" 1513259701 1363 ae2c17496a30fefa30ee0538fead4739 ""
   "section1.3.tex" 1513260065 1931 5d216dfa22f184ce32ae4f9578b2513f ""
@@ -248,14 +249,15 @@
   "section1.6.tex" 1517205264 3819 a7e36a53481af78e24f00863accae48d ""
   "section1.7.tex" 1523865301 3883 8d57a413b7a4cdb15da05033cddb1205 ""
   "section2.1.tex" 1519838901 3329 2ab9991908251a5727b7d84d64882b48 ""
-  "section2.2.tex" 1519839133 2865 f45c5a2c7e0c0eb0e7609818f9ba952e ""
+  "section2.2.tex" 1526826135 2901 7c04179b234c7358d5367f289028006b ""
+  "section3.1.tex" 1526825211 403 e22205917841988e4a1b75d8ce4d0af6 ""
   "structure.tex" 1512493451 19510 a681786cfaffe54b3b8d0aef8d8214e1 ""
   (generated)
-  "main.xdv"
-  "main.idx"
-  "main.toc"
-  "main.aux"
-  "main.run.xml"
-  "main.ptc"
-  "main.log"
   "main.bcf"
+  "main.ptc"
+  "main.run.xml"
+  "main.idx"
+  "main.xdv"
+  "main.aux"
+  "main.toc"
+  "main.log"
