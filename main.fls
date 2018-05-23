@@ -495,6 +495,8 @@ INPUT main.ptc
 INPUT Pictures/chapter_head_2.pdf
 INPUT section3.1.tex
 INPUT section3.1.tex
+INPUT section3.2.tex
+INPUT section3.2.tex
 INPUT Pictures/chapter_head_2.pdf
 INPUT main.ind
 INPUT main.ind
