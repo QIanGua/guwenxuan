@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.14)  23 MAY 2018 10:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.14)  23 MAY 2018 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2544,19 +2544,16 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `STSong' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Underfull \vbox (badness 8151) has occurred while \output is active []
-
  [3
 
 ])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
-
-[4]
+ [4]
 \c@ttl@toc@default=\count415
- (./main.ptc) [5
+ (./main.ptc)
+[5
 
 
 ] [6]
@@ -2570,69 +2567,70 @@ File: Pictures/chapter_head_2.pdf Graphic file (type QTm)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10])
-[11] [12
+(./section1.8.tex [11]) (./section1.9.tex [12]) [13] [14
 
-] (./main.ptc) [13] [14]
+] (./main.ptc) [15]
+[16]
 Chapter 2.
 File: Pictures/chapter_head_2.pdf Graphic file (type QTm)
 <use  "Pictures/chapter_head_2.pdf" > (./section2.1.tex
 Underfull \vbox (badness 1412) has occurred while \output is active []
 
- [15
+ [17
 
 ])
-(./section2.2.tex [16]
+(./section2.2.tex [18]
 Package microtype Info: Loading generic settings for font family
 (microtype)             `STFangsong' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [17] [18
+) [19] [20
 
-] (./main.ptc) [19] [20]
+] (./main.ptc) [21] [22]
 Chapter 3.
 File: Pictures/chapter_head_2.pdf Graphic file (type QTm)
 <use  "Pictures/chapter_head_2.pdf" > (./section3.1.tex) (./section3.2.tex)
-[21
+[23
 
-] [22
+] [24
 
 ]
 File: Pictures/chapter_head_2.pdf Graphic file (type QTm)
  <use  "Pictures/chapter_head_2.pdf" >
 
-Package biblatex Warning: Type 'article' not found on input line 189.
+Package biblatex Warning: Type 'article' not found on input line 191.
 
 
-LaTeX Warning: Empty bibliography on input line 189.
+LaTeX Warning: Empty bibliography on input line 191.
 
 
-Package biblatex Warning: Type 'book' not found on input line 195.
+Package biblatex Warning: Type 'book' not found on input line 197.
 
 
-LaTeX Warning: Empty bibliography on input line 195.
+LaTeX Warning: Empty bibliography on input line 197.
 
-[23] [24
+[25] [26
 
 ] (./main.ind)
 \tf@ptc=\write8
 \openout8 = `main.ptc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 209.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 209.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 211.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 211.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46500 strings out of 493005
- 903794 string characters out of 6134596
- 1450037 words of memory out of 5000000
- 49740 multiletter control sequences out of 15000+600000
+ 46620 strings out of 493005
+ 910867 string characters out of 6134596
+ 1451037 words of memory out of 5000000
+ 49852 multiletter control sequences out of 15000+600000
  35478 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  57i,12n,67p,10507b,4566s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (24 pages, 218000 bytes).
+Output written on main.xdv (26 pages, 265444 bytes).
