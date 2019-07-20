@@ -1,6 +1,0 @@
-PWD /Users/wangqianlong/Nustore Files/Myjianguoyun/book_2-01
-INPUT /usr/local/texlive/2017/texmf.cnf
-INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt
-INPUT section4.3.tex
-OUTPUT section4.3.log
