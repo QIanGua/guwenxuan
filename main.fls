@@ -1,4 +1,4 @@
-PWD /Users/wangqianlong/Nustore Files/Myjianguoyun/book_2-01
+PWD /Users/wangqianlong/.Trash/book_2-01
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt
@@ -556,6 +556,12 @@ INPUT section4.9.tex
 INPUT section4.9.tex
 INPUT section4.10.tex
 INPUT section4.10.tex
+INPUT section4.11.tex
+INPUT section4.11.tex
+INPUT section4.12.tex
+INPUT section4.12.tex
+INPUT section4.13.tex
+INPUT section4.13.tex
 INPUT Pictures/chapter_head_2.pdf
 INPUT section5.1.tex
 INPUT section5.1.tex
