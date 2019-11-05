@@ -46,8 +46,12 @@
 % \documentclass[11pt,fleqn]{ctexbook} % Default font size and left-justified equations
 
 %----------------------------------------------------------------------------------------
-
+\usepackage{fontspec}
 \usepackage[UTF8]{ctex}
+\usepackage{xeCJK}
+\setmainfont{Times}
+\setCJKmainfont{Songti TC}
+% \setCJKmainfont{Xingkai TC}
 \input{structure} % Insert the commands.tex file which contains the majority of the structure behind the template
 
 %\usepackage{ctexcap}
@@ -68,7 +72,8 @@
 \node[inner sep=0pt] (background) at (current page.center) {\includegraphics[width=\paperwidth]{background}};
 \draw (current page.center) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]
 {
-\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}
+\Huge\centering\bfseries\parbox[c][][t]{\paperwidth}
+% {\addvspace{12pt}\large\sffamily\bfseries} % Spacing and font options for chapters
  {\centering
  宇宙中不易被吹散的风\\[40pt] % Book title
 % 文心雕龍\\[20pt] % Subtitle
@@ -109,7 +114,7 @@
 
 \tableofcontents % Print the table of contents itself
 
-\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+% \cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
 
 \pagestyle{fancy} % Print headers again
 
@@ -202,10 +207,12 @@
 \input{section4.13}
 \input{section4.14}
 \input{section4.15}
+\input{section4.16}
 
 \chapter{  狼狗时光}
 \input{section5.1}
 \input{section5.2}
+% \input{section5.3}
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
