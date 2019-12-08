@@ -6,8 +6,12 @@
 % \documentclass[11pt,fleqn]{ctexbook} % Default font size and left-justified equations
 
 %----------------------------------------------------------------------------------------
+\makeatletter 
+\providecommand*{\input@path}{}
+\g@addto@macro\input@path{{dir-sec-tex/}}% append
+\makeatother
 \input{structure} % Insert the commands.tex file which contains the majority of the structure behind the template
-
+% \input@path{{dir-sec-tex/}} % path append
 \begin{document}
 
 %----------------------------------------------------------------------------------------
@@ -23,7 +27,8 @@
 \Huge\centering\bfseries\parbox[c][][t]{\paperwidth}
 % {\addvspace{12pt}\large\sffamily\bfseries} % Spacing and font options for chapters
  {\centering
- 宇宙中不易被吹散的风\\[40pt] % Book title
+ % 宇宙中不易被吹散的风\\[40pt] % Book title
+我也曾多次表白\\[40pt] % Book title
 % 文心雕龍\\[20pt] % Subtitle
  {\huge 采采流水}
  }
