@@ -61,7 +61,7 @@ This is Caicailiushui's personal collections about Language.
 *** ./dir-sec-tex/section5.2.tex:1:\section{塔罗牌算不出的爱情——S. A. HOROWITZ}
 *** ./dir-sec-tex/section5.3.tex:1:\section{破碎故事之心——塞林格}
 
-** ☘️ 金風玉露
-*** ./dir-sec-tex/section5.1.tex:1:\section{团队精神——卡尔维诺}
-*** ./dir-sec-tex/section5.2.tex:1:\section{塔罗牌算不出的爱情——S. A. HOROWITZ}
-*** ./dir-sec-tex/section5.3.tex:1:\section{破碎故事之心——塞林格}
+# ** ☘️ 金風玉露
+# *** ./dir-sec-tex/section5.1.tex:1:\section{团队精神——卡尔维诺}
+# *** ./dir-sec-tex/section5.2.tex:1:\section{塔罗牌算不出的爱情——S. A. HOROWITZ}
+# *** ./dir-sec-tex/section5.3.tex:1:\section{破碎故事之心——塞林格}
