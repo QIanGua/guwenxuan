@@ -1,6 +1,5 @@
 * README
 This is Caicailiushui's personal collections about Language.
-
 ** ☘️ 此情可待
 *** ./dir-sec-tex/section1.1.tex:1:\section{伶官传序——欧阳修}
 *** ./dir-sec-tex/section1.2.tex:1:\section{聊齋自序——蒲松龄}
@@ -30,6 +29,7 @@ This is Caicailiushui's personal collections about Language.
 *** ./dir-sec-tex/section3.7.tex:1:\section{观公孙大娘弟子舞剑器行——杜甫}
 *** ./dir-sec-tex/section3.8.tex:1:\section{李凭箜篌引——李賀}
 *** ./dir-sec-tex/section3.9.tex:1:\section{放言五首其一——白居易}
+*** ./dir-sec-tex/section3.10.tex:1:\section{苏暮遮——范仲淹}
 
 ** ☘️ 語言寺廟
 *** ./dir-sec-tex/section4.1.tex:1:\section{我用什么才能留住你——博尔赫斯}
