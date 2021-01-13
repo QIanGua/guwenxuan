@@ -21,17 +21,21 @@
 \begingroup
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture,overlay]
-\node[inner sep=0pt] (background) at (current page.center) {\includegraphics[width=\paperwidth]{background}};
-\draw (current page.center) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]
+% \node[inner sep=0pt] (background) at (current page.center) {\includegraphics[width=\paperwidth]{background}};
+\node[inner sep=0pt] (background) at (current page.center) {\includegraphics[width=\paperwidth]{silk}};
+% \draw (current page.center) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]
+\draw (current page.center) node 
 {
-\Huge\centering\bfseries\parbox[c][][t]{\paperwidth}
+% \Huge\centering\bfseries\parbox[c][][t]{\paperwidth}
+\fontsize{48}{12}\selectfont\centering\bfseries\parbox[c][][t]{\paperwidth}
 % {\addvspace{12pt}\large\sffamily\bfseries} % Spacing and font options for chapters
  {\centering
  % 宇宙中不易被吹散的风\\[40pt] % Book title
 % 我也曾多次表白\\[40pt] % Book title
 集情文贴\\[40pt] % Book title
 % 文心雕龍\\[20pt] % Subtitle
- {\huge 采采流水}
+% {\small 采采流水}
+{\fontsize{38}{12} 采采流水}
  }
 }; % Author name
 \end{tikzpicture}
@@ -133,6 +137,9 @@
 \include{section3.8}
 \include{section3.9}
 \include{section3.10}
+\include{section3.11}
+\include{section3.12}
+\include{section3.13}
 
 
 \part{Part Four}
@@ -162,6 +169,7 @@
 \include{section4.22}
 \include{section4.23}
 \include{section4.24}
+\include{section4.25}
 
 
 \part{Part Five}
